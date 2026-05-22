@@ -1,0 +1,97 @@
+student_id,subject,year,season,grade
+1,basket-weaving,2023,autumn,110
+2,basket-weaving,2024,autumn,64
+3,underwater basket-weaving,2023,autumn,54
+4,underwater basket-weaving,2024,autumn,98
+5,basket-weaving,2023,autumn,121
+6,basket-weaving,2024,autumn,59
+7,underwater basket-weaving,2023,autumn,52
+8,underwater basket-weaving,2024,autumn,42
+9,basket-weaving,2023,autumn,58
+10,basket-weaving,2024,autumn,56
+11,underwater basket-weaving,2023,autumn,36
+12,underwater basket-weaving,2024,autumn,58
+1,botany,2023,autumn,44
+2,botany,2024,autumn,45
+3,botany,2023,autumn,83
+4,botany,2024,autumn,119
+5,boiling water,2023,autumn,127
+6,boiling water,2024,autumn,114
+7,boiling water,2023,autumn,52
+8,boiling water,2024,autumn,119
+9,boiling water,2023,autumn,58
+10,botany,2024,autumn,66
+11,botany,2023,autumn,103
+12,botany,2024,autumn,111
+1,basket-weaving,2023,winter,38
+2,basket-weaving,2024,winter,55
+3,underwater basket-weaving,2023,winter,48
+4,underwater basket-weaving,2024,winter,129
+5,basket-weaving,2023,winter,62
+6,basket-weaving,2024,winter,57
+7,underwater basket-weaving,2023,winter,49
+8,underwater basket-weaving,2024,winter,101
+9,basket-weaving,2023,winter,33
+10,basket-weaving,2024,winter,100
+11,underwater basket-weaving,2023,winter,121
+12,underwater basket-weaving,2024,winter,97
+1,botany,2023,winter,112
+2,botany,2024,winter,63
+3,botany,2023,winter,108
+4,botany,2024,winter,37
+5,boiling water,2023,winter,69
+6,boiling water,2024,winter,109
+7,boiling water,2023,winter,76
+8,boiling water,2024,winter,118
+9,boiling water,2023,winter,59
+10,botany,2024,winter,50
+11,botany,2023,winter,73
+12,botany,2024,winter,84
+1,basket-weaving,2023,spring,107
+2,basket-weaving,2024,spring,42
+3,underwater basket-weaving,2023,spring,42
+4,underwater basket-weaving,2024,spring,109
+5,basket-weaving,2023,spring,75
+6,basket-weaving,2024,spring,84
+7,underwater basket-weaving,2023,spring,49
+8,underwater basket-weaving,2024,spring,39
+9,basket-weaving,2023,spring,71
+10,basket-weaving,2024,spring,109
+11,underwater basket-weaving,2023,spring,48
+12,underwater basket-weaving,2024,spring,73
+1,botany,2023,spring,62
+2,botany,2024,spring,61
+3,botany,2023,spring,82
+4,botany,2024,spring,91
+5,boiling water,2023,spring,115
+6,boiling water,2024,spring,111
+7,boiling water,2023,spring,112
+8,boiling water,2024,spring,73
+9,boiling water,2023,spring,77
+10,botany,2024,spring,110
+11,botany,2023,spring,103
+12,botany,2024,spring,129
+1,basket-weaving,2023,summer,31
+2,basket-weaving,2024,summer,126
+3,underwater basket-weaving,2023,summer,51
+4,underwater basket-weaving,2024,summer,108
+5,basket-weaving,2023,summer,59
+6,basket-weaving,2024,summer,104
+7,underwater basket-weaving,2023,summer,86
+8,underwater basket-weaving,2024,summer,123
+9,basket-weaving,2023,summer,44
+10,basket-weaving,2024,summer,94
+11,underwater basket-weaving,2023,summer,123
+12,underwater basket-weaving,2024,summer,37
+1,botany,2023,summer,41
+2,botany,2024,summer,85
+3,botany,2023,summer,111
+4,botany,2024,summer,91
+5,boiling water,2023,summer,92
+6,boiling water,2024,summer,39
+7,boiling water,2023,summer,83
+8,boiling water,2024,summer,112
+9,boiling water,2023,summer,84
+10,botany,2024,summer,74
+11,botany,2023,summer,91
+12,botany,2024,summer,81
